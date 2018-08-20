@@ -1,5 +1,6 @@
 # Jrebel & Jet Brains License Server for Java
 
+#用maven启动命令行 mvn exec:java -Dexec.mainClass="com.vvvtimes.server.MainServer
 A license server for Jrebel & JetBrains products, it also support JRebel for Android and XRebel.
 
 ***
